@@ -1,0 +1,21 @@
+{
+  "name": "ideas-api",
+  "version": "1.0.0",
+  "description": "This is for new ideas listing and creation and posting api for our web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "javascript",
+    "middleware",
+    "json",
+    "routes",
+    "controllers",
+    "models"
+  ],
+  "author": "Atul Bansal",
+  "license": "ISC"
+}

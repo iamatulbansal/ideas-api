@@ -4,7 +4,7 @@
   "description": "This is for new ideas listing and creation and posting api for our web app",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon ./server.js",
+    "dev": "nodemon ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
